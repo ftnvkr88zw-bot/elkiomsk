@@ -34,3 +34,5 @@ add.addEventListener("click", () => { const c = store.get("elki-cart", []); if (
   const n = document.querySelector("header [data-cnt]"); if (n && !reduce) n.animate([{transform:"scale(1)"},{transform:"scale(1.5)"},{transform:"scale(1)"}],{duration:420}); });
 sync();
 })();
+/* Яндекс.Метрика */
+(function(){ if (window.__elkiYM) return; var s = document.createElement('script'); s.src = '/assets/metrika.js'; s.async = true; document.head.appendChild(s); })();
