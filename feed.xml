@@ -1,0 +1,2387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-27 23:18">
+  <shop>
+    <name>Ёлки Омск</name>
+    <company>Ёлки Омск</company>
+    <url>https://elkiomsk.ru/</url>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Искусственные ёлки</category>
+      <category id="2" parentId="1">Литые ёлки</category>
+      <category id="3" parentId="1">Искусственные туи</category>
+    </categories>
+    <delivery-options>
+      <option cost="0" days="1-2"/>
+    </delivery-options>
+    <pickup-options>
+      <option cost="0" days="0"/>
+    </pickup-options>
+    <offers>
+      <offer id="permskaya-120" group_id="1" available="true">
+        <url>https://elkiomsk.ru/elki/permskaya.html</url>
+        <price>6500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/permskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Пермская» 120 см</name>
+        <description><![CDATA[Классическая литая ель с плотной хвоей. Самая популярная модель: от компактных 120 см до 2,5 м. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">120</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="permskaya-150" group_id="1" available="true">
+        <url>https://elkiomsk.ru/elki/permskaya.html</url>
+        <price>8800</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/permskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Пермская» 150 см</name>
+        <description><![CDATA[Классическая литая ель с плотной хвоей. Самая популярная модель: от компактных 120 см до 2,5 м. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">150</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="permskaya-180" group_id="1" available="true">
+        <url>https://elkiomsk.ru/elki/permskaya.html</url>
+        <price>12400</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/permskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Пермская» 180 см</name>
+        <description><![CDATA[Классическая литая ель с плотной хвоей. Самая популярная модель: от компактных 120 см до 2,5 м. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="permskaya-210" group_id="1" available="true">
+        <url>https://elkiomsk.ru/elki/permskaya.html</url>
+        <price>14900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/permskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Пермская» 210 см</name>
+        <description><![CDATA[Классическая литая ель с плотной хвоей. Самая популярная модель: от компактных 120 см до 2,5 м. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="permskaya-230" group_id="1" available="true">
+        <url>https://elkiomsk.ru/elki/permskaya.html</url>
+        <price>18700</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/permskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Пермская» 230 см</name>
+        <description><![CDATA[Классическая литая ель с плотной хвоей. Самая популярная модель: от компактных 120 см до 2,5 м. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">230</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="permskaya-250" group_id="1" available="true">
+        <url>https://elkiomsk.ru/elki/permskaya.html</url>
+        <price>22300</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/permskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Пермская» 250 см</name>
+        <description><![CDATA[Классическая литая ель с плотной хвоей. Самая популярная модель: от компактных 120 см до 2,5 м. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">250</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="tyumenskaya-180" group_id="2" available="true">
+        <url>https://elkiomsk.ru/elki/tyumenskaya.html</url>
+        <price>13700</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/tyumenskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Тюменская» 180 см</name>
+        <description><![CDATA[Пышная литая ель с объёмными ярусами. Есть высокие варианты до 3 м для частного дома и холла. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="tyumenskaya-210" group_id="2" available="true">
+        <url>https://elkiomsk.ru/elki/tyumenskaya.html</url>
+        <price>17400</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/tyumenskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Тюменская» 210 см</name>
+        <description><![CDATA[Пышная литая ель с объёмными ярусами. Есть высокие варианты до 3 м для частного дома и холла. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="tyumenskaya-230" group_id="2" available="true">
+        <url>https://elkiomsk.ru/elki/tyumenskaya.html</url>
+        <price>22300</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/tyumenskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Тюменская» 230 см</name>
+        <description><![CDATA[Пышная литая ель с объёмными ярусами. Есть высокие варианты до 3 м для частного дома и холла. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">230</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="tyumenskaya-250" group_id="2" available="true">
+        <url>https://elkiomsk.ru/elki/tyumenskaya.html</url>
+        <price>28900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/tyumenskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Тюменская» 250 см</name>
+        <description><![CDATA[Пышная литая ель с объёмными ярусами. Есть высокие варианты до 3 м для частного дома и холла. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">250</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="tyumenskaya-270" group_id="2" available="true">
+        <url>https://elkiomsk.ru/elki/tyumenskaya.html</url>
+        <price>35500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/tyumenskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Тюменская» 270 см</name>
+        <description><![CDATA[Пышная литая ель с объёмными ярусами. Есть высокие варианты до 3 м для частного дома и холла. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">270</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="tyumenskaya-300" group_id="2" available="true">
+        <url>https://elkiomsk.ru/elki/tyumenskaya.html</url>
+        <price>43800</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/tyumenskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Тюменская» 300 см</name>
+        <description><![CDATA[Пышная литая ель с объёмными ярусами. Есть высокие варианты до 3 м для частного дома и холла. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">300</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="kremlevskaya-60" group_id="3" available="true">
+        <url>https://elkiomsk.ru/elki/kremlevskaya.html</url>
+        <price>1700</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/kremlevskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Кремлёвская» 60 см</name>
+        <description><![CDATA[Стройная литая ель с насыщенным цветом. Широкий выбор высот: от настольной 60 см до 2,5 м. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">60</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="kremlevskaya-100" group_id="3" available="true">
+        <url>https://elkiomsk.ru/elki/kremlevskaya.html</url>
+        <price>3000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/kremlevskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Кремлёвская» 100 см</name>
+        <description><![CDATA[Стройная литая ель с насыщенным цветом. Широкий выбор высот: от настольной 60 см до 2,5 м. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">100</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="kremlevskaya-150" group_id="3" available="true">
+        <url>https://elkiomsk.ru/elki/kremlevskaya.html</url>
+        <price>7100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/kremlevskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Кремлёвская» 150 см</name>
+        <description><![CDATA[Стройная литая ель с насыщенным цветом. Широкий выбор высот: от настольной 60 см до 2,5 м. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">150</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="kremlevskaya-180" group_id="3" available="true">
+        <url>https://elkiomsk.ru/elki/kremlevskaya.html</url>
+        <price>11300</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/kremlevskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Кремлёвская» 180 см</name>
+        <description><![CDATA[Стройная литая ель с насыщенным цветом. Широкий выбор высот: от настольной 60 см до 2,5 м. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="kremlevskaya-210" group_id="3" available="true">
+        <url>https://elkiomsk.ru/elki/kremlevskaya.html</url>
+        <price>13200</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/kremlevskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Кремлёвская» 210 см</name>
+        <description><![CDATA[Стройная литая ель с насыщенным цветом. Широкий выбор высот: от настольной 60 см до 2,5 м. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="kremlevskaya-230" group_id="3" available="true">
+        <url>https://elkiomsk.ru/elki/kremlevskaya.html</url>
+        <price>16200</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/kremlevskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Кремлёвская» 230 см</name>
+        <description><![CDATA[Стройная литая ель с насыщенным цветом. Широкий выбор высот: от настольной 60 см до 2,5 м. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">230</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="kremlevskaya-250" group_id="3" available="true">
+        <url>https://elkiomsk.ru/elki/kremlevskaya.html</url>
+        <price>19500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/kremlevskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Кремлёвская» 250 см</name>
+        <description><![CDATA[Стройная литая ель с насыщенным цветом. Широкий выбор высот: от настольной 60 см до 2,5 м. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">250</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="alpiyskaya-lyuks-150" group_id="4" available="true">
+        <url>https://elkiomsk.ru/elki/alpiyskaya-lyuks.html</url>
+        <price>6900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/alpiyskaya-lyuks.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Альпийская Люкс» 150 см</name>
+        <description><![CDATA[Густая литая ель премиум-сегмента. Ветки хорошо держат крупные игрушки и гирлянды. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">150</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="alpiyskaya-lyuks-180" group_id="4" available="true">
+        <url>https://elkiomsk.ru/elki/alpiyskaya-lyuks.html</url>
+        <price>10900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/alpiyskaya-lyuks.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Альпийская Люкс» 180 см</name>
+        <description><![CDATA[Густая литая ель премиум-сегмента. Ветки хорошо держат крупные игрушки и гирлянды. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="alpiyskaya-lyuks-210" group_id="4" available="true">
+        <url>https://elkiomsk.ru/elki/alpiyskaya-lyuks.html</url>
+        <price>13700</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/alpiyskaya-lyuks.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Альпийская Люкс» 210 см</name>
+        <description><![CDATA[Густая литая ель премиум-сегмента. Ветки хорошо держат крупные игрушки и гирлянды. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="alpiyskaya-lyuks-230" group_id="4" available="true">
+        <url>https://elkiomsk.ru/elki/alpiyskaya-lyuks.html</url>
+        <price>16500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/alpiyskaya-lyuks.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Альпийская Люкс» 230 см</name>
+        <description><![CDATA[Густая литая ель премиум-сегмента. Ветки хорошо держат крупные игрушки и гирлянды. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">230</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="alpiyskaya-lyuks-250" group_id="4" available="true">
+        <url>https://elkiomsk.ru/elki/alpiyskaya-lyuks.html</url>
+        <price>22300</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/alpiyskaya-lyuks.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Альпийская Люкс» 250 см</name>
+        <description><![CDATA[Густая литая ель премиум-сегмента. Ветки хорошо держат крупные игрушки и гирлянды. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">250</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="alpiyskaya-80" group_id="5" available="true">
+        <url>https://elkiomsk.ru/elki/alpiyskaya.html</url>
+        <price>2000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/alpiyskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Альпийская» 80 см</name>
+        <description><![CDATA[Лёгкая литая ель с аккуратным силуэтом. Хороший выбор для квартиры и детской. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">80</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="alpiyskaya-100" group_id="5" available="true">
+        <url>https://elkiomsk.ru/elki/alpiyskaya.html</url>
+        <price>3300</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/alpiyskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Альпийская» 100 см</name>
+        <description><![CDATA[Лёгкая литая ель с аккуратным силуэтом. Хороший выбор для квартиры и детской. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">100</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="alpiyskaya-120" group_id="5" available="true">
+        <url>https://elkiomsk.ru/elki/alpiyskaya.html</url>
+        <price>5000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/alpiyskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Альпийская» 120 см</name>
+        <description><![CDATA[Лёгкая литая ель с аккуратным силуэтом. Хороший выбор для квартиры и детской. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">120</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="alpiyskaya-150" group_id="5" available="true">
+        <url>https://elkiomsk.ru/elki/alpiyskaya.html</url>
+        <price>6300</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/alpiyskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Альпийская» 150 см</name>
+        <description><![CDATA[Лёгкая литая ель с аккуратным силуэтом. Хороший выбор для квартиры и детской. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">150</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="alpiyskaya-180" group_id="5" available="true">
+        <url>https://elkiomsk.ru/elki/alpiyskaya.html</url>
+        <price>9900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/alpiyskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Альпийская» 180 см</name>
+        <description><![CDATA[Лёгкая литая ель с аккуратным силуэтом. Хороший выбор для квартиры и детской. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="alpiyskaya-210" group_id="5" available="true">
+        <url>https://elkiomsk.ru/elki/alpiyskaya.html</url>
+        <price>13200</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/alpiyskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Альпийская» 210 см</name>
+        <description><![CDATA[Лёгкая литая ель с аккуратным силуэтом. Хороший выбор для квартиры и детской. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="kazanskaya-80" group_id="6" available="true">
+        <url>https://elkiomsk.ru/elki/kazanskaya.html</url>
+        <price>2400</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/kazanskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Казанская» 80 см</name>
+        <description><![CDATA[Литая ель с яркой зелёной хвоей и равномерными ярусами. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">80</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="kazanskaya-100" group_id="6" available="true">
+        <url>https://elkiomsk.ru/elki/kazanskaya.html</url>
+        <price>3300</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/kazanskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Казанская» 100 см</name>
+        <description><![CDATA[Литая ель с яркой зелёной хвоей и равномерными ярусами. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">100</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="kazanskaya-120" group_id="6" available="true">
+        <url>https://elkiomsk.ru/elki/kazanskaya.html</url>
+        <price>5000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/kazanskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Казанская» 120 см</name>
+        <description><![CDATA[Литая ель с яркой зелёной хвоей и равномерными ярусами. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">120</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="kazanskaya-150" group_id="6" available="true">
+        <url>https://elkiomsk.ru/elki/kazanskaya.html</url>
+        <price>7500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/kazanskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Казанская» 150 см</name>
+        <description><![CDATA[Литая ель с яркой зелёной хвоей и равномерными ярусами. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">150</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="kazanskaya-180" group_id="6" available="true">
+        <url>https://elkiomsk.ru/elki/kazanskaya.html</url>
+        <price>11300</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/kazanskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Казанская» 180 см</name>
+        <description><![CDATA[Литая ель с яркой зелёной хвоей и равномерными ярусами. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="kazanskaya-210" group_id="6" available="true">
+        <url>https://elkiomsk.ru/elki/kazanskaya.html</url>
+        <price>14100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/kazanskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Казанская» 210 см</name>
+        <description><![CDATA[Литая ель с яркой зелёной хвоей и равномерными ярусами. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="irkutskaya-100" group_id="7" available="true">
+        <url>https://elkiomsk.ru/elki/irkutskaya.html</url>
+        <price>3300</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/irkutskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Иркутская» 100 см</name>
+        <description><![CDATA[Сибирский силуэт и плотная короткая хвоя. Выглядит естественно с любого ракурса. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">100</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="irkutskaya-120" group_id="7" available="true">
+        <url>https://elkiomsk.ru/elki/irkutskaya.html</url>
+        <price>5500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/irkutskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Иркутская» 120 см</name>
+        <description><![CDATA[Сибирский силуэт и плотная короткая хвоя. Выглядит естественно с любого ракурса. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">120</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="irkutskaya-150" group_id="7" available="true">
+        <url>https://elkiomsk.ru/elki/irkutskaya.html</url>
+        <price>7500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/irkutskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Иркутская» 150 см</name>
+        <description><![CDATA[Сибирский силуэт и плотная короткая хвоя. Выглядит естественно с любого ракурса. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">150</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="irkutskaya-180" group_id="7" available="true">
+        <url>https://elkiomsk.ru/elki/irkutskaya.html</url>
+        <price>9900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/irkutskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Иркутская» 180 см</name>
+        <description><![CDATA[Сибирский силуэт и плотная короткая хвоя. Выглядит естественно с любого ракурса. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="irkutskaya-210" group_id="7" available="true">
+        <url>https://elkiomsk.ru/elki/irkutskaya.html</url>
+        <price>12400</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/irkutskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Иркутская» 210 см</name>
+        <description><![CDATA[Сибирский силуэт и плотная короткая хвоя. Выглядит естественно с любого ракурса. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="irkutskaya-230" group_id="7" available="true">
+        <url>https://elkiomsk.ru/elki/irkutskaya.html</url>
+        <price>15700</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/irkutskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Иркутская» 230 см</name>
+        <description><![CDATA[Сибирский силуэт и плотная короткая хвоя. Выглядит естественно с любого ракурса. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">230</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="irkutskaya-250" group_id="7" available="true">
+        <url>https://elkiomsk.ru/elki/irkutskaya.html</url>
+        <price>19000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/irkutskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Иркутская» 250 см</name>
+        <description><![CDATA[Сибирский силуэт и плотная короткая хвоя. Выглядит естественно с любого ракурса. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">250</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="sverdlovskaya-180" group_id="8" available="true">
+        <url>https://elkiomsk.ru/elki/sverdlovskaya.html</url>
+        <price>19000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/sverdlovskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Свердловская» 180 см</name>
+        <description><![CDATA[Самая пушистая литая ель в каталоге. Глубокий тёмно-зелёный цвет, высоты до 3 м. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="sverdlovskaya-210" group_id="8" available="true">
+        <url>https://elkiomsk.ru/elki/sverdlovskaya.html</url>
+        <price>25300</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/sverdlovskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Свердловская» 210 см</name>
+        <description><![CDATA[Самая пушистая литая ель в каталоге. Глубокий тёмно-зелёный цвет, высоты до 3 м. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="sverdlovskaya-230" group_id="8" available="true">
+        <url>https://elkiomsk.ru/elki/sverdlovskaya.html</url>
+        <price>28600</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/sverdlovskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Свердловская» 230 см</name>
+        <description><![CDATA[Самая пушистая литая ель в каталоге. Глубокий тёмно-зелёный цвет, высоты до 3 м. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">230</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="sverdlovskaya-250" group_id="8" available="true">
+        <url>https://elkiomsk.ru/elki/sverdlovskaya.html</url>
+        <price>30400</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/sverdlovskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Свердловская» 250 см</name>
+        <description><![CDATA[Самая пушистая литая ель в каталоге. Глубокий тёмно-зелёный цвет, высоты до 3 м. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">250</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="sverdlovskaya-270" group_id="8" available="true">
+        <url>https://elkiomsk.ru/elki/sverdlovskaya.html</url>
+        <price>39600</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/sverdlovskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Свердловская» 270 см</name>
+        <description><![CDATA[Самая пушистая литая ель в каталоге. Глубокий тёмно-зелёный цвет, высоты до 3 м. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">270</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="sverdlovskaya-300" group_id="8" available="true">
+        <url>https://elkiomsk.ru/elki/sverdlovskaya.html</url>
+        <price>43800</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/sverdlovskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Свердловская» 300 см</name>
+        <description><![CDATA[Самая пушистая литая ель в каталоге. Глубокий тёмно-зелёный цвет, высоты до 3 м. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">300</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="lesnaya-180" group_id="9" available="true">
+        <url>https://elkiomsk.ru/elki/lesnaya.html</url>
+        <price>12400</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/lesnaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Лесная» 180 см</name>
+        <description><![CDATA[Ель «как из леса»: разная длина веток и естественная неровность кроны. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="lesnaya-210" group_id="9" available="true">
+        <url>https://elkiomsk.ru/elki/lesnaya.html</url>
+        <price>14900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/lesnaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Лесная» 210 см</name>
+        <description><![CDATA[Ель «как из леса»: разная длина веток и естественная неровность кроны. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="lesnaya-230" group_id="9" available="true">
+        <url>https://elkiomsk.ru/elki/lesnaya.html</url>
+        <price>18700</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/lesnaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Лесная» 230 см</name>
+        <description><![CDATA[Ель «как из леса»: разная длина веток и естественная неровность кроны. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">230</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="lesnaya-250" group_id="9" available="true">
+        <url>https://elkiomsk.ru/elki/lesnaya.html</url>
+        <price>24000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/lesnaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Лесная» 250 см</name>
+        <description><![CDATA[Ель «как из леса»: разная длина веток и естественная неровность кроны. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">250</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="zvezdnaya-180" group_id="10" available="true">
+        <url>https://elkiomsk.ru/elki/zvezdnaya.html</url>
+        <price>17900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/zvezdnaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Звёздная» 180 см</name>
+        <description><![CDATA[Широкая нарядная ель с объёмными ветками. Хороша как главная ёлка в гостиной. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="zvezdnaya-210" group_id="10" available="true">
+        <url>https://elkiomsk.ru/elki/zvezdnaya.html</url>
+        <price>21300</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/zvezdnaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Звёздная» 210 см</name>
+        <description><![CDATA[Широкая нарядная ель с объёмными ветками. Хороша как главная ёлка в гостиной. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="zvezdnaya-230" group_id="10" available="true">
+        <url>https://elkiomsk.ru/elki/zvezdnaya.html</url>
+        <price>27900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/zvezdnaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Звёздная» 230 см</name>
+        <description><![CDATA[Широкая нарядная ель с объёмными ветками. Хороша как главная ёлка в гостиной. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">230</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="zvezdnaya-250" group_id="10" available="true">
+        <url>https://elkiomsk.ru/elki/zvezdnaya.html</url>
+        <price>31900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/zvezdnaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Звёздная» 250 см</name>
+        <description><![CDATA[Широкая нарядная ель с объёмными ветками. Хороша как главная ёлка в гостиной. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">250</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="tobolskaya-180" group_id="11" available="true">
+        <url>https://elkiomsk.ru/elki/tobolskaya.html</url>
+        <price>15100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/tobolskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Тобольская» 180 см</name>
+        <description><![CDATA[Литая ель с мягким переходом цвета от тёмной сердцевины к светлым кончикам. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="tobolskaya-210" group_id="11" available="true">
+        <url>https://elkiomsk.ru/elki/tobolskaya.html</url>
+        <price>19700</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/tobolskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Тобольская» 210 см</name>
+        <description><![CDATA[Литая ель с мягким переходом цвета от тёмной сердцевины к светлым кончикам. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="tobolskaya-230" group_id="11" available="true">
+        <url>https://elkiomsk.ru/elki/tobolskaya.html</url>
+        <price>25100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/tobolskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Тобольская» 230 см</name>
+        <description><![CDATA[Литая ель с мягким переходом цвета от тёмной сердцевины к светлым кончикам. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">230</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="tobolskaya-250" group_id="11" available="true">
+        <url>https://elkiomsk.ru/elki/tobolskaya.html</url>
+        <price>31400</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/tobolskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Тобольская» 250 см</name>
+        <description><![CDATA[Литая ель с мягким переходом цвета от тёмной сердцевины к светлым кончикам. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">250</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="saratovskaya-180" group_id="12" available="true">
+        <url>https://elkiomsk.ru/elki/saratovskaya.html</url>
+        <price>14900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/saratovskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Саратовская» 180 см</name>
+        <description><![CDATA[Светлая литая ель с раскидистыми нижними ярусами. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="saratovskaya-210" group_id="12" available="true">
+        <url>https://elkiomsk.ru/elki/saratovskaya.html</url>
+        <price>17400</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/saratovskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Саратовская» 210 см</name>
+        <description><![CDATA[Светлая литая ель с раскидистыми нижними ярусами. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="saratovskaya-230" group_id="12" available="true">
+        <url>https://elkiomsk.ru/elki/saratovskaya.html</url>
+        <price>22300</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/saratovskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Саратовская» 230 см</name>
+        <description><![CDATA[Светлая литая ель с раскидистыми нижними ярусами. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">230</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="saratovskaya-250" group_id="12" available="true">
+        <url>https://elkiomsk.ru/elki/saratovskaya.html</url>
+        <price>27300</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/saratovskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Саратовская» 250 см</name>
+        <description><![CDATA[Светлая литая ель с раскидистыми нижними ярусами. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">250</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="saratovskaya-lyuks-180" group_id="13" available="true">
+        <url>https://elkiomsk.ru/elki/saratovskaya-lyuks.html</url>
+        <price>11380</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/saratovskaya-lyuks.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Саратовская Люкс» 180 см</name>
+        <description><![CDATA[Усиленная версия Саратовской: больше веток и плотнее крона. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="saratovskaya-lyuks-210" group_id="13" available="true">
+        <url>https://elkiomsk.ru/elki/saratovskaya-lyuks.html</url>
+        <price>21800</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/saratovskaya-lyuks.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Саратовская Люкс» 210 см</name>
+        <description><![CDATA[Усиленная версия Саратовской: больше веток и плотнее крона. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="saratovskaya-lyuks-230" group_id="13" available="true">
+        <url>https://elkiomsk.ru/elki/saratovskaya-lyuks.html</url>
+        <price>26400</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/saratovskaya-lyuks.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Саратовская Люкс» 230 см</name>
+        <description><![CDATA[Усиленная версия Саратовской: больше веток и плотнее крона. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">230</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="saratovskaya-lyuks-250" group_id="13" available="true">
+        <url>https://elkiomsk.ru/elki/saratovskaya-lyuks.html</url>
+        <price>32200</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/saratovskaya-lyuks.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Саратовская Люкс» 250 см</name>
+        <description><![CDATA[Усиленная версия Саратовской: больше веток и плотнее крона. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">250</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="krymskaya-220" group_id="14" available="true">
+        <url>https://elkiomsk.ru/elki/krymskaya.html</url>
+        <price>27300</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/krymskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Крымская» 220 см</name>
+        <description><![CDATA[Большая ель для высоких потолков, холлов и торговых залов: от 2,2 до 3,8 м. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">220</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="krymskaya-250" group_id="14" available="true">
+        <url>https://elkiomsk.ru/elki/krymskaya.html</url>
+        <price>33900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/krymskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Крымская» 250 см</name>
+        <description><![CDATA[Большая ель для высоких потолков, холлов и торговых залов: от 2,2 до 3,8 м. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">250</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="krymskaya-280" group_id="14" available="true">
+        <url>https://elkiomsk.ru/elki/krymskaya.html</url>
+        <price>42100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/krymskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Крымская» 280 см</name>
+        <description><![CDATA[Большая ель для высоких потолков, холлов и торговых залов: от 2,2 до 3,8 м. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">280</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="krymskaya-300" group_id="14" available="true">
+        <url>https://elkiomsk.ru/elki/krymskaya.html</url>
+        <price>47100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/krymskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Крымская» 300 см</name>
+        <description><![CDATA[Большая ель для высоких потолков, холлов и торговых залов: от 2,2 до 3,8 м. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">300</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="krymskaya-350" group_id="14" available="true">
+        <url>https://elkiomsk.ru/elki/krymskaya.html</url>
+        <price>57800</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/krymskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Крымская» 350 см</name>
+        <description><![CDATA[Большая ель для высоких потолков, холлов и торговых залов: от 2,2 до 3,8 м. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">350</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="krymskaya-380" group_id="14" available="true">
+        <url>https://elkiomsk.ru/elki/krymskaya.html</url>
+        <price>62700</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/krymskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Крымская» 380 см</name>
+        <description><![CDATA[Большая ель для высоких потолков, холлов и торговых залов: от 2,2 до 3,8 м. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">380</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="moskovskaya-180" group_id="15" available="true">
+        <url>https://elkiomsk.ru/elki/moskovskaya.html</url>
+        <price>18400</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/moskovskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Московская» 180 см</name>
+        <description><![CDATA[Премиальная литая ель с очень плотной кроной. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="moskovskaya-210" group_id="15" available="true">
+        <url>https://elkiomsk.ru/elki/moskovskaya.html</url>
+        <price>25800</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/moskovskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Московская» 210 см</name>
+        <description><![CDATA[Премиальная литая ель с очень плотной кроной. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="moskovskaya-240" group_id="15" available="true">
+        <url>https://elkiomsk.ru/elki/moskovskaya.html</url>
+        <price>36300</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/moskovskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Московская» 240 см</name>
+        <description><![CDATA[Премиальная литая ель с очень плотной кроной. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">240</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="sibirskaya-180" group_id="16" available="true">
+        <url>https://elkiomsk.ru/elki/sibirskaya.html</url>
+        <price>13500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/sibirskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Сибирская» 180 см</name>
+        <description><![CDATA[Высокая стройная ель с ровными ярусами. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="sibirskaya-210" group_id="16" available="true">
+        <url>https://elkiomsk.ru/elki/sibirskaya.html</url>
+        <price>18000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/sibirskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Сибирская» 210 см</name>
+        <description><![CDATA[Высокая стройная ель с ровными ярусами. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="intererenaya-150" group_id="17" available="true">
+        <url>https://elkiomsk.ru/elki/intererenaya.html</url>
+        <price>6900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/intererenaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Интерьерная» 150 см</name>
+        <description><![CDATA[Аккуратная ель для современного интерьера. Хорошо смотрится с минимумом украшений. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">150</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="intererenaya-180" group_id="17" available="true">
+        <url>https://elkiomsk.ru/elki/intererenaya.html</url>
+        <price>10900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/intererenaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Интерьерная» 180 см</name>
+        <description><![CDATA[Аккуратная ель для современного интерьера. Хорошо смотрится с минимумом украшений. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="intererenaya-210" group_id="17" available="true">
+        <url>https://elkiomsk.ru/elki/intererenaya.html</url>
+        <price>13700</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/intererenaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Интерьерная» 210 см</name>
+        <description><![CDATA[Аккуратная ель для современного интерьера. Хорошо смотрится с минимумом украшений. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="kungurskaya-120" group_id="18" available="true">
+        <url>https://elkiomsk.ru/elki/kungurskaya.html</url>
+        <price>5500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/kungurskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Кунгурская» 120 см</name>
+        <description><![CDATA[Пропорциональная литая ель средней пушистости по доступной цене. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">120</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="kungurskaya-150" group_id="18" available="true">
+        <url>https://elkiomsk.ru/elki/kungurskaya.html</url>
+        <price>6900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/kungurskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Кунгурская» 150 см</name>
+        <description><![CDATA[Пропорциональная литая ель средней пушистости по доступной цене. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">150</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="kungurskaya-180" group_id="18" available="true">
+        <url>https://elkiomsk.ru/elki/kungurskaya.html</url>
+        <price>10900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/kungurskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Кунгурская» 180 см</name>
+        <description><![CDATA[Пропорциональная литая ель средней пушистости по доступной цене. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="kungurskaya-210" group_id="18" available="true">
+        <url>https://elkiomsk.ru/elki/kungurskaya.html</url>
+        <price>14600</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/kungurskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Кунгурская» 210 см</name>
+        <description><![CDATA[Пропорциональная литая ель средней пушистости по доступной цене. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="kungurskaya-230" group_id="18" available="true">
+        <url>https://elkiomsk.ru/elki/kungurskaya.html</url>
+        <price>18100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/kungurskaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Кунгурская» 230 см</name>
+        <description><![CDATA[Пропорциональная литая ель средней пушистости по доступной цене. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">230</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="sosna-150" group_id="19" available="true">
+        <url>https://elkiomsk.ru/elki/sosna.html</url>
+        <price>8300</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/sosna.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Сосна» 150 см</name>
+        <description><![CDATA[Длинная хвоя, как у настоящей сосны. Очень объёмная и мягкая на вид. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">150</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="sosna-180" group_id="19" available="true">
+        <url>https://elkiomsk.ru/elki/sosna.html</url>
+        <price>11600</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/sosna.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Сосна» 180 см</name>
+        <description><![CDATA[Длинная хвоя, как у настоящей сосны. Очень объёмная и мягкая на вид. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="sosna-210" group_id="19" available="true">
+        <url>https://elkiomsk.ru/elki/sosna.html</url>
+        <price>14900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/sosna.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Сосна» 210 см</name>
+        <description><![CDATA[Длинная хвоя, как у настоящей сосны. Очень объёмная и мягкая на вид. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="sosna-230" group_id="19" available="true">
+        <url>https://elkiomsk.ru/elki/sosna.html</url>
+        <price>19800</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/sosna.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Сосна» 230 см</name>
+        <description><![CDATA[Длинная хвоя, как у настоящей сосны. Очень объёмная и мягкая на вид. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">230</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="sosna-miks-180" group_id="20" available="true">
+        <url>https://elkiomsk.ru/elki/sosna-miks.html</url>
+        <price>13200</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/sosna-miks.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Сосна литая Микс» 180 см</name>
+        <description><![CDATA[Сочетание сосновой и еловой литой хвои. Фактурная и необычная. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="sosna-miks-210" group_id="20" available="true">
+        <url>https://elkiomsk.ru/elki/sosna-miks.html</url>
+        <price>16500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/sosna-miks.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Сосна литая Микс» 210 см</name>
+        <description><![CDATA[Сочетание сосновой и еловой литой хвои. Фактурная и необычная. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="sosna-miks-230" group_id="20" available="true">
+        <url>https://elkiomsk.ru/elki/sosna-miks.html</url>
+        <price>21500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/sosna-miks.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Сосна литая Микс» 230 см</name>
+        <description><![CDATA[Сочетание сосновой и еловой литой хвои. Фактурная и необычная. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">230</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="omskaya-lyuks-150" group_id="21" available="true">
+        <url>https://elkiomsk.ru/elki/omskaya-lyuks.html</url>
+        <price>6210</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/omskaya-lyuks.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Омская Люкс» 150 см</name>
+        <description><![CDATA[Узкая ель-«свеча» для небольших комнат и углов. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">150</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="omskaya-lyuks-180" group_id="21" available="true">
+        <url>https://elkiomsk.ru/elki/omskaya-lyuks.html</url>
+        <price>8280</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/omskaya-lyuks.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Омская Люкс» 180 см</name>
+        <description><![CDATA[Узкая ель-«свеча» для небольших комнат и углов. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="omskaya-lyuks-210" group_id="21" available="true">
+        <url>https://elkiomsk.ru/elki/omskaya-lyuks.html</url>
+        <price>11390</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/omskaya-lyuks.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Омская Люкс» 210 см</name>
+        <description><![CDATA[Узкая ель-«свеча» для небольших комнат и углов. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="omskaya-lyuks-230" group_id="21" available="true">
+        <url>https://elkiomsk.ru/elki/omskaya-lyuks.html</url>
+        <price>13460</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/omskaya-lyuks.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Омская Люкс» 230 см</name>
+        <description><![CDATA[Узкая ель-«свеча» для небольших комнат и углов. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">230</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="nastolnaya-80" group_id="22" available="true">
+        <url>https://elkiomsk.ru/elki/nastolnaya.html</url>
+        <price>2300</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/nastolnaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Настольная до 1 м» 80 см</name>
+        <description><![CDATA[Маленькая литая ёлочка на стол, комод или подоконник. Хороший подарок. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">80</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="nastolnaya-100" group_id="22" available="true">
+        <url>https://elkiomsk.ru/elki/nastolnaya.html</url>
+        <price>3200</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/nastolnaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Настольная до 1 м» 100 см</name>
+        <description><![CDATA[Маленькая литая ёлочка на стол, комод или подоконник. Хороший подарок. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">100</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="zasnezhennaya-litaya-150" group_id="23" available="true">
+        <url>https://elkiomsk.ru/elki/zasnezhennaya-litaya.html</url>
+        <price>13500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/zasnezhennaya-litaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Заснеженная литая» 150 см</name>
+        <description><![CDATA[Литые ветки под густым белым напылением, будто ёлку только что принесли с мороза. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">150</param>
+        <param name="Цвет">заснеженный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="zasnezhennaya-litaya-180" group_id="23" available="true">
+        <url>https://elkiomsk.ru/elki/zasnezhennaya-litaya.html</url>
+        <price>17100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/zasnezhennaya-litaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Заснеженная литая» 180 см</name>
+        <description><![CDATA[Литые ветки под густым белым напылением, будто ёлку только что принесли с мороза. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">заснеженный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="zasnezhennaya-litaya-210" group_id="23" available="true">
+        <url>https://elkiomsk.ru/elki/zasnezhennaya-litaya.html</url>
+        <price>20700</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/zasnezhennaya-litaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Заснеженная литая» 210 см</name>
+        <description><![CDATA[Литые ветки под густым белым напылением, будто ёлку только что принесли с мороза. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">заснеженный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="zasnezhennaya-litaya-230" group_id="23" available="true">
+        <url>https://elkiomsk.ru/elki/zasnezhennaya-litaya.html</url>
+        <price>25500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/zasnezhennaya-litaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Заснеженная литая» 230 см</name>
+        <description><![CDATA[Литые ветки под густым белым напылением, будто ёлку только что принесли с мороза. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">230</param>
+        <param name="Цвет">заснеженный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="zasnezhennaya-litaya-250" group_id="23" available="true">
+        <url>https://elkiomsk.ru/elki/zasnezhennaya-litaya.html</url>
+        <price>33000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/zasnezhennaya-litaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Заснеженная литая» 250 см</name>
+        <description><![CDATA[Литые ветки под густым белым напылением, будто ёлку только что принесли с мороза. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">250</param>
+        <param name="Цвет">заснеженный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="zasnezhennaya-litaya-270" group_id="23" available="true">
+        <url>https://elkiomsk.ru/elki/zasnezhennaya-litaya.html</url>
+        <price>34100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/zasnezhennaya-litaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Заснеженная литая» 270 см</name>
+        <description><![CDATA[Литые ветки под густым белым напылением, будто ёлку только что принесли с мороза. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">270</param>
+        <param name="Цвет">заснеженный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="zasnezhennaya-litaya-300" group_id="23" available="true">
+        <url>https://elkiomsk.ru/elki/zasnezhennaya-litaya.html</url>
+        <price>43200</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/zasnezhennaya-litaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Заснеженная литая» 300 см</name>
+        <description><![CDATA[Литые ветки под густым белым напылением, будто ёлку только что принесли с мороза. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">300</param>
+        <param name="Цвет">заснеженный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="lesnaya-zasnezhennaya-180" group_id="24" available="true">
+        <url>https://elkiomsk.ru/elki/lesnaya-zasnezhennaya.html</url>
+        <price>17100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/lesnaya-zasnezhennaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Лесная заснеженная» 180 см</name>
+        <description><![CDATA[Лесная ель с инеем на кончиках веток. Красиво смотрится с тёплой гирляндой. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">заснеженный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="lesnaya-zasnezhennaya-210" group_id="24" available="true">
+        <url>https://elkiomsk.ru/elki/lesnaya-zasnezhennaya.html</url>
+        <price>20700</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/lesnaya-zasnezhennaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Лесная заснеженная» 210 см</name>
+        <description><![CDATA[Лесная ель с инеем на кончиках веток. Красиво смотрится с тёплой гирляндой. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">заснеженный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="lesnaya-zasnezhennaya-230" group_id="24" available="true">
+        <url>https://elkiomsk.ru/elki/lesnaya-zasnezhennaya.html</url>
+        <price>25500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/lesnaya-zasnezhennaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Лесная заснеженная» 230 см</name>
+        <description><![CDATA[Лесная ель с инеем на кончиках веток. Красиво смотрится с тёплой гирляндой. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">230</param>
+        <param name="Цвет">заснеженный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="lesnaya-zasnezhennaya-250" group_id="24" available="true">
+        <url>https://elkiomsk.ru/elki/lesnaya-zasnezhennaya.html</url>
+        <price>33000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/lesnaya-zasnezhennaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Лесная заснеженная» 250 см</name>
+        <description><![CDATA[Лесная ель с инеем на кончиках веток. Красиво смотрится с тёплой гирляндой. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">250</param>
+        <param name="Цвет">заснеженный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="lesnaya-zasnezhennaya-270" group_id="24" available="true">
+        <url>https://elkiomsk.ru/elki/lesnaya-zasnezhennaya.html</url>
+        <price>34100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/lesnaya-zasnezhennaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Лесная заснеженная» 270 см</name>
+        <description><![CDATA[Лесная ель с инеем на кончиках веток. Красиво смотрится с тёплой гирляндой. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">270</param>
+        <param name="Цвет">заснеженный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="lesnaya-zasnezhennaya-300" group_id="24" available="true">
+        <url>https://elkiomsk.ru/elki/lesnaya-zasnezhennaya.html</url>
+        <price>43200</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/lesnaya-zasnezhennaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Лесная заснеженная» 300 см</name>
+        <description><![CDATA[Лесная ель с инеем на кончиках веток. Красиво смотрится с тёплой гирляндой. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">300</param>
+        <param name="Цвет">заснеженный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="permskaya-belosnezhnaya-150" group_id="25" available="true">
+        <url>https://elkiomsk.ru/elki/permskaya-belosnezhnaya.html</url>
+        <price>8800</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/permskaya-belosnezhnaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Пермская белоснежная» 150 см</name>
+        <description><![CDATA[Пермская ель с белыми заснеженными кончиками. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">150</param>
+        <param name="Цвет">заснеженный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="permskaya-belosnezhnaya-180" group_id="25" available="true">
+        <url>https://elkiomsk.ru/elki/permskaya-belosnezhnaya.html</url>
+        <price>12400</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/permskaya-belosnezhnaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Пермская белоснежная» 180 см</name>
+        <description><![CDATA[Пермская ель с белыми заснеженными кончиками. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">заснеженный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="permskaya-belosnezhnaya-210" group_id="25" available="true">
+        <url>https://elkiomsk.ru/elki/permskaya-belosnezhnaya.html</url>
+        <price>14900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/permskaya-belosnezhnaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Пермская белоснежная» 210 см</name>
+        <description><![CDATA[Пермская ель с белыми заснеженными кончиками. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">заснеженный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="permskaya-belosnezhnaya-230" group_id="25" available="true">
+        <url>https://elkiomsk.ru/elki/permskaya-belosnezhnaya.html</url>
+        <price>18700</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/permskaya-belosnezhnaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Пермская белоснежная» 230 см</name>
+        <description><![CDATA[Пермская ель с белыми заснеженными кончиками. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">230</param>
+        <param name="Цвет">заснеженный</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="permskaya-belaya-150" group_id="26" available="true">
+        <url>https://elkiomsk.ru/elki/permskaya-belaya.html</url>
+        <price>8800</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/permskaya-belaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Пермская белая» 150 см</name>
+        <description><![CDATA[Полностью белая литая ель для светлого интерьера. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">150</param>
+        <param name="Цвет">белый</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="permskaya-belaya-180" group_id="26" available="true">
+        <url>https://elkiomsk.ru/elki/permskaya-belaya.html</url>
+        <price>12400</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/permskaya-belaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Пермская белая» 180 см</name>
+        <description><![CDATA[Полностью белая литая ель для светлого интерьера. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">белый</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="permskaya-belaya-210" group_id="26" available="true">
+        <url>https://elkiomsk.ru/elki/permskaya-belaya.html</url>
+        <price>14900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/permskaya-belaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Пермская белая» 210 см</name>
+        <description><![CDATA[Полностью белая литая ель для светлого интерьера. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">белый</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="permskaya-belaya-230" group_id="26" available="true">
+        <url>https://elkiomsk.ru/elki/permskaya-belaya.html</url>
+        <price>18700</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/permskaya-belaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Пермская белая» 230 см</name>
+        <description><![CDATA[Полностью белая литая ель для светлого интерьера. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">230</param>
+        <param name="Цвет">белый</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="tobolskaya-golubaya-180" group_id="27" available="true">
+        <url>https://elkiomsk.ru/elki/tobolskaya-golubaya.html</url>
+        <price>15100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/tobolskaya-golubaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Тобольская голубая» 180 см</name>
+        <description><![CDATA[Голубая литая ель с серебристым отливом. Особенно хороша с белыми и серебряными игрушками. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">голубой</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="tobolskaya-golubaya-210" group_id="27" available="true">
+        <url>https://elkiomsk.ru/elki/tobolskaya-golubaya.html</url>
+        <price>19700</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/tobolskaya-golubaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Тобольская голубая» 210 см</name>
+        <description><![CDATA[Голубая литая ель с серебристым отливом. Особенно хороша с белыми и серебряными игрушками. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">голубой</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="tobolskaya-golubaya-230" group_id="27" available="true">
+        <url>https://elkiomsk.ru/elki/tobolskaya-golubaya.html</url>
+        <price>25100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/tobolskaya-golubaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Тобольская голубая» 230 см</name>
+        <description><![CDATA[Голубая литая ель с серебристым отливом. Особенно хороша с белыми и серебряными игрушками. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">230</param>
+        <param name="Цвет">голубой</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="tyumenskaya-golubaya-180" group_id="28" available="true">
+        <url>https://elkiomsk.ru/elki/tyumenskaya-golubaya.html</url>
+        <price>13700</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/tyumenskaya-golubaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Тюменская голубая» 180 см</name>
+        <description><![CDATA[Пышная Тюменская в холодном голубом оттенке. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">голубой</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="tyumenskaya-golubaya-210" group_id="28" available="true">
+        <url>https://elkiomsk.ru/elki/tyumenskaya-golubaya.html</url>
+        <price>17400</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/tyumenskaya-golubaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Тюменская голубая» 210 см</name>
+        <description><![CDATA[Пышная Тюменская в холодном голубом оттенке. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">голубой</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="tyumenskaya-golubaya-230" group_id="28" available="true">
+        <url>https://elkiomsk.ru/elki/tyumenskaya-golubaya.html</url>
+        <price>22300</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/tyumenskaya-golubaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Тюменская голубая» 230 см</name>
+        <description><![CDATA[Пышная Тюменская в холодном голубом оттенке. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">230</param>
+        <param name="Цвет">голубой</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="tyumenskaya-golubaya-250" group_id="28" available="true">
+        <url>https://elkiomsk.ru/elki/tyumenskaya-golubaya.html</url>
+        <price>28900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/tyumenskaya-golubaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Тюменская голубая» 250 см</name>
+        <description><![CDATA[Пышная Тюменская в холодном голубом оттенке. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">250</param>
+        <param name="Цвет">голубой</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="kungurskaya-golubaya-120" group_id="29" available="true">
+        <url>https://elkiomsk.ru/elki/kungurskaya-golubaya.html</url>
+        <price>5500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/kungurskaya-golubaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Кунгурская зелёно-голубая» 120 см</name>
+        <description><![CDATA[Двухцветная хвоя: зелёная с голубыми кончиками. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">120</param>
+        <param name="Цвет">голубой</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="kungurskaya-golubaya-150" group_id="29" available="true">
+        <url>https://elkiomsk.ru/elki/kungurskaya-golubaya.html</url>
+        <price>6900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/kungurskaya-golubaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Кунгурская зелёно-голубая» 150 см</name>
+        <description><![CDATA[Двухцветная хвоя: зелёная с голубыми кончиками. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">150</param>
+        <param name="Цвет">голубой</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="kungurskaya-golubaya-180" group_id="29" available="true">
+        <url>https://elkiomsk.ru/elki/kungurskaya-golubaya.html</url>
+        <price>10900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/kungurskaya-golubaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Кунгурская зелёно-голубая» 180 см</name>
+        <description><![CDATA[Двухцветная хвоя: зелёная с голубыми кончиками. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">голубой</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="kungurskaya-golubaya-210" group_id="29" available="true">
+        <url>https://elkiomsk.ru/elki/kungurskaya-golubaya.html</url>
+        <price>14600</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/kungurskaya-golubaya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная литая ёлка «Кунгурская зелёно-голубая» 210 см</name>
+        <description><![CDATA[Двухцветная хвоя: зелёная с голубыми кончиками. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">голубой</param>
+        <param name="Материал хвои">литая</param>
+      </offer>
+      <offer id="tuya-80" group_id="30" available="true">
+        <url>https://elkiomsk.ru/elki/tuya.html</url>
+        <price>1900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/tuya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная туя «Туя искусственная» 80 см</name>
+        <description><![CDATA[Вечнозелёная туя для интерьера, входной группы и террасы круглый год. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">80</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая (туя)</param>
+      </offer>
+      <offer id="tuya-100" group_id="30" available="true">
+        <url>https://elkiomsk.ru/elki/tuya.html</url>
+        <price>3000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/tuya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная туя «Туя искусственная» 100 см</name>
+        <description><![CDATA[Вечнозелёная туя для интерьера, входной группы и террасы круглый год. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">100</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая (туя)</param>
+      </offer>
+      <offer id="tuya-120" group_id="30" available="true">
+        <url>https://elkiomsk.ru/elki/tuya.html</url>
+        <price>4500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/tuya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная туя «Туя искусственная» 120 см</name>
+        <description><![CDATA[Вечнозелёная туя для интерьера, входной группы и террасы круглый год. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">120</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая (туя)</param>
+      </offer>
+      <offer id="tuya-150" group_id="30" available="true">
+        <url>https://elkiomsk.ru/elki/tuya.html</url>
+        <price>5700</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/tuya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная туя «Туя искусственная» 150 см</name>
+        <description><![CDATA[Вечнозелёная туя для интерьера, входной группы и террасы круглый год. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">150</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая (туя)</param>
+      </offer>
+      <offer id="tuya-180" group_id="30" available="true">
+        <url>https://elkiomsk.ru/elki/tuya.html</url>
+        <price>9000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/tuya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная туя «Туя искусственная» 180 см</name>
+        <description><![CDATA[Вечнозелёная туя для интерьера, входной группы и террасы круглый год. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">180</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая (туя)</param>
+      </offer>
+      <offer id="tuya-210" group_id="30" available="true">
+        <url>https://elkiomsk.ru/elki/tuya.html</url>
+        <price>11900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://elkiomsk.ru/assets/trees/tuya.jpg</picture>
+        <store>true</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <name>Искусственная туя «Туя искусственная» 210 см</name>
+        <description><![CDATA[Вечнозелёная туя для интерьера, входной группы и террасы круглый год. Российское производство. Шоурум в Омске: ул. Маршала Жукова, 70а/1. Бесплатная доставка по Омску, отправка по России.]]></description>
+        <sales_notes>Оплата наличными, картой, СБП</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Высота" unit="см">210</param>
+        <param name="Цвет">зелёный</param>
+        <param name="Материал хвои">литая (туя)</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
