@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://elkiomsk.ru/sitemap.xml
