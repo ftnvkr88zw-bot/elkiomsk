@@ -20,11 +20,11 @@ document.addEventListener('click', function(e){
   if (/yandex\.[a-z]+\/maps|maps\.yandex/i.test(h)) goal('map_click');
 }, true);
 
-/* заявка: появился экран «Заявка принята» / «Осталось отправить» */
+/* заявка: появился экран «Заявка принята» (заявка ушла в Telegram) */
 var leadAt = 0;
 function checkLead(node){
   var t = node && node.textContent || '';
-  if (/Заявка принята|Осталось отправить/.test(t) && Date.now() - leadAt > 5000){ leadAt = Date.now(); goal('lead_sent'); }
+  if (/Заявка принята/.test(t) && Date.now() - leadAt > 5000){ leadAt = Date.now(); goal('lead_sent'); }
 }
 
 /* квиз: показан результат */
