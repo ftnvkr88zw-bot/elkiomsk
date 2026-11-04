@@ -18,6 +18,7 @@ document.addEventListener('click', function(e){
   if (!a) return;
   var h = a.getAttribute('href') || '';
   if (/yandex\.[a-z]+\/maps|maps\.yandex/i.test(h)) goal('map_click');
+  if (/2gis\./i.test(h)) goal('gis_click');
 }, true);
 
 /* заявка: появился экран «Заявка принята» (заявка ушла в Telegram) */
