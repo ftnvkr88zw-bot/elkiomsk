@@ -240,7 +240,7 @@
       <form class="lead-form" id="leadForm" novalidate>
         <div class="grid gap-1.5"><label for="lName" class="text-sm font-semibold">Имя</label><input id="lName" name="name" class="fld" autocomplete="name" required></div>
         <div class="grid gap-1.5"><label for="lPhone" class="text-sm font-semibold">Телефон</label><input id="lPhone" name="phone" type="tel" inputmode="tel" class="fld" autocomplete="tel" placeholder="+7 900 000-00-00" required></div>
-        <label class="flex items-start gap-3 text-sm text-mute sm:col-span-2"><input type="checkbox" id="lOk" class="mt-1 h-4 w-4 accent-[rgb(var(--tang))]"> Согласен на обработку персональных данных для связи</label>
+        <label class="flex items-start gap-3 text-sm text-mute sm:col-span-2"><input type="checkbox" id="lOk" class="mt-1 h-4 w-4 accent-[rgb(var(--tang))]"> <span>Согласен на <a href="soglasie.html" target="_blank" class="underline">обработку персональных данных</a> для связи и принимаю <a href="politika.html" target="_blank" class="underline">политику конфиденциальности</a></span></label>
         <button type="submit" class="rounded-full bg-tang px-7 py-4 font-semibold text-white sm:col-span-2">Жду звонка</button>
         <p id="leadErr" class="text-sm text-tang sm:col-span-2" hidden>Укажите имя, телефон полностью и поставьте галочку согласия.</p>
       </form>
@@ -349,7 +349,7 @@
       <div><p class="font-semibold">Мы на связи</p><p class="mt-2 grid gap-1"><a href="https://vk.ru/elki_v_omske" target="_blank" rel="noopener" class="text-tang">ВКонтакте: vk.ru/elki_v_omske</a><a href="https://yandex.ru/maps/org/yolki_ryadom/136832160204/" target="_blank" rel="noopener" class="text-tang">Яндекс Карты</a><a href="https://2gis.ru/omsk/firm/70000001117984454" target="_blank" rel="noopener" class="text-tang">2ГИС</a></p></div>
     </div>
     <p class="display mt-16 select-none whitespace-nowrap text-[clamp(44px,13vw,200px)] leading-[.8] opacity-95" aria-hidden="true">ЁЛКИ&nbsp;РЯДОМ</p>
-    <p class="mt-8 border-t border-onink/15 pt-6 text-xs opacity-60">© 2026 Ёлки Рядом. Цены на сайте не являются публичной офертой: актуальную стоимость и наличие подтверждает менеджер.</p>
+    <p class="mt-8 border-t border-onink/15 pt-6 text-xs opacity-60">© 2026 Ёлки Рядом. Цены на сайте не являются публичной офертой: актуальную стоимость и наличие подтверждает менеджер. <a href="politika.html" class="underline">Политика конфиденциальности</a> · <a href="soglasie.html" class="underline">Согласие на обработку персональных данных</a></p>
   </div>
 </footer>
 
@@ -541,7 +541,7 @@ function renderCart(){
       <div class="grid gap-1.5" id="addrBox" hidden><label for="oAddr" class="text-sm font-semibold">Город и адрес</label><input id="oAddr" name="addr" class="fld" autocomplete="street-address"></div>
       <div class="grid gap-1.5"><label for="oPay" class="text-sm font-semibold">Оплата</label><select id="oPay" name="pay" class="fld"><option>Карта или СБП</option><option>Наличные</option><option>Перевод на карту</option><option>VK Pay</option></select></div>
       <div class="grid gap-1.5"><label for="oNote" class="text-sm font-semibold">Комментарий</label><textarea id="oNote" name="note" rows="2" class="fld" placeholder="Удобное время звонка, этаж, пожелания"></textarea></div>
-      <label class="flex items-start gap-3 text-sm text-mute"><input type="checkbox" id="oOk" class="mt-1 h-4 w-4 accent-[rgb(var(--tang))]"> Согласен на обработку персональных данных для связи по заказу</label>
+      <label class="flex items-start gap-3 text-sm text-mute"><input type="checkbox" id="oOk" class="mt-1 h-4 w-4 accent-[rgb(var(--tang))]"> <span>Согласен на <a href="soglasie.html" target="_blank" class="underline">обработку персональных данных</a> для связи по заказу и принимаю <a href="politika.html" target="_blank" class="underline">политику конфиденциальности</a></span></label>
       <button type="submit" class="rounded-full bg-tang py-4 font-semibold text-white transition hover:-translate-y-0.5">Отправить заявку · ${fmt(total)}</button>
     </form>`;
   body.querySelectorAll("[data-k]").forEach(row => {
@@ -705,7 +705,7 @@ function renderQuiz(){
       <p class="sm:col-span-2 font-semibold">Пришлём видео этих ёлок из шоурума — оставьте контакты:</p>
       <input name="name" class="fld" placeholder="Имя" autocomplete="name" aria-label="Имя">
       <input name="phone" type="tel" inputmode="tel" class="fld" placeholder="Телефон" autocomplete="tel" aria-label="Телефон">
-      <label class="flex items-start gap-3 text-sm text-mute sm:col-span-2"><input type="checkbox" name="ok" class="mt-1 h-4 w-4 accent-[rgb(var(--tang))]"> Согласен на обработку персональных данных для связи</label>
+      <label class="flex items-start gap-3 text-sm text-mute sm:col-span-2"><input type="checkbox" name="ok" class="mt-1 h-4 w-4 accent-[rgb(var(--tang))]"> <span>Согласен на <a href="soglasie.html" target="_blank" class="underline">обработку персональных данных</a> для связи и принимаю <a href="politika.html" target="_blank" class="underline">политику конфиденциальности</a></span></label>
       <button type="submit" class="rounded-full bg-tang py-4 font-semibold text-white sm:col-span-2">Получить подборку</button>
       <p class="qerr text-sm text-tang sm:col-span-2" hidden>Укажите имя, телефон полностью и поставьте галочку согласия.</p>
     </form>
