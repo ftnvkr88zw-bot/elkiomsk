@@ -42,3 +42,14 @@
   document.addEventListener("click", function(e){ if (!panel.hidden && !panel.contains(e.target) && !btn.contains(e.target)) setOpen(false); });
   matchMedia("(min-width: 1280px)").addEventListener("change", function(m){ if (m.matches) setOpen(false); });
 })();
+
+(function(){
+  var K="elki-cookie-ok"; try { if (localStorage.getItem(K)) return; } catch(e) {}
+  var root = location.pathname.split("/").length > 2 ? "../" : "";
+  var b = document.createElement("div"); b.className = "ck-bar"; b.setAttribute("role","region"); b.setAttribute("aria-label","Уведомление о cookie");
+  b.innerHTML = '<p>Мы используем cookie и Яндекс.Метрику, чтобы сайт работал удобнее. Продолжая пользоваться сайтом, вы соглашаетесь с <a href="' + root + 'politika.html">политикой обработки персональных данных</a>.</p><button type="button">Хорошо</button>';
+  var st = document.createElement("style");
+  st.textContent = ".ck-bar{position:fixed;z-index:60;left:12px;right:12px;bottom:calc(84px + env(safe-area-inset-bottom,0px));max-width:560px;margin:0 auto;display:flex;align-items:center;gap:14px;padding:14px 16px;border-radius:18px;background:rgb(var(--paper));border:1px solid rgb(var(--hair));box-shadow:0 18px 40px rgba(0,0,0,.4);color:rgb(var(--ink));font-size:14px;line-height:1.45}.ck-bar p{margin:0;color:rgb(var(--mute))}.ck-bar a{color:rgb(var(--ink));text-decoration:underline;text-underline-offset:3px}.ck-bar button{flex-shrink:0;padding:10px 18px;border:0;border-radius:999px;background:rgb(var(--tang));color:#fff;font-weight:600;cursor:pointer}@media (min-width:640px){.ck-bar{bottom:20px;left:20px;right:auto}}";
+  document.head.appendChild(st); document.body.appendChild(b);
+  b.querySelector("button").addEventListener("click", function(){ try { localStorage.setItem(K,"1"); } catch(e) {} b.remove(); });
+})();
