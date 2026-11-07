@@ -36,3 +36,5 @@ sync();
 })();
 /* Яндекс.Метрика */
 (function(){ if (window.__elkiYM) return; var s = document.createElement('script'); s.src = '/assets/metrika.js'; s.async = true; document.head.appendChild(s); })();
+
+(function(){ if (document.querySelector('script[src*="menu.js"]')) return; var s=document.createElement("script"); s.src="/assets/menu.js"; s.defer=true; document.head.appendChild(s); })();
